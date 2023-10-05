@@ -1,2 +1,2 @@
-#Projet de 1^{ère}.
+# Projet de 1<SUP>ère</SUP>:
 Je vais présenter mon **projet**.
