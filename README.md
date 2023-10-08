@@ -14,19 +14,26 @@ Sur ce projet, on a utilisé 3 langages:
 [Page5](https://github.com/RIZZANTE-MADONNA-Alexandre-2326091/Markdown-TD1_project/edit/main/README.md#5%C3%A8me-page)
 [CSS + JS](https://github.com/RIZZANTE-MADONNA-Alexandre-2326091/Markdown-TD1_project/edit/main/README.md#css--js)
 ### 1<SUP>ère</SUP> Page:
-La complexité de cette algorithme est de $O(log_{2}(n))$.
+Sur cette page d'acceuil, on présente le contenu du site. On présente comment naviguer sur le site, l'ordre des pages à visiter et on conseille aussi les utilisateurs quelle navigateur est-il recommandé.
 
 ### 2<SUP>ème</SUP> Page:
+Cette page présente le projet et l'algorithme. On explique le fonctionnement de l'algorithme ainsi que l'éfficacité de l'algorithme.
 
+L'algorithme se passe dans un tableau trié et on cherche une valeur dedans. On prend le milieu et on compare cette valeur au nombre cherché. Si le milieu est inférieur, le max devient le milieu ou le min devient le milieu et on continu jusqu'à trouver la valeur ou non.
 
+La complexité de cette algorithme est de $O(log_{2}(n))$, en effet:
+>floor(log2(1024)+1) = 11
+>
+>floor(log2(2048)+1) = 12
 ### 3<SUP>ème</SUP> Page:
-
+Cette troisième page présente les auteurs du site. On se présente, donne nos goûts et pourquoi avoir choisi la spécialité NSI car nous étions en première générale.
 
 ### 4<SUP>ème</SUP> Page:
-
+Cette page est le rapport. Dedans, on peut lire comment nous nous sommes répartis les tâches, quel est l'utilité de chaque document, le peuso-code des fonctions Javascript, les tests éffectués durant la création du projet et enfin la conclusion critique des membres du projet où l'in donne notre avis sur le projet, sur ce qu'il pourrait être amélioré.
 
 ### 5<SUP>ème</SUP> Page:
-Voici une capture d'écran sur lequel on a testé l'alggorithme:
+Voici une capture d'écran sur lequel on a testé l'algorithme:
+On demande à l'utilisateur d'entrer la taille du tableau choisi et le nombre à chercher dans ce tableau. L'utlisateur doit valider son choix, sinon, les valeurs ne sont pas enregistrées. Enfin, l'utilisateur clique sur le bouton **"Activer l'algorithme"** et l'algorithme se lance. L'utilisateur pourra voir le déroulement étape par étape de l'algorithme.
 ![Capture d'écran de la page pour tester l'algorithme.](https://github.com/RIZZANTE-MADONNA-Alexandre-2326091/Markdown-TD1_project/blob/main/Recherche%20dico.PNG)
 > [!WARNING]
 > Si la taille du tableau est supérieur à 100, l'algorithme plante.
