@@ -4,7 +4,7 @@ Je vais présenter mon **projet** de NSI en _première_.
 C'était un projet à deux dans lequel il fallait faire un site web sur un alogrithme travaillé durant l'année. J'ai choisi de faire un site Web sur la recherche dichotomique. Ce site est composé de 5 pages:index: la page d'acceuil, présentation:la page de présentation du projet, auteurs: la page de renseignements sur les auteurs du projet, rapport: rapport de projet et algorithme qui est la page de test de l'algorithme.
 # Sommaire:
 [Page1](https://github.com/RIZZANTE-MADONNA-Alexandre-2326091/Markdown-TD1_project/blob/main/README.md#1%C3%A8re-page)
-[Page2]()
+[Page2](https://github.com/RIZZANTE-MADONNA-Alexandre-2326091/Markdown-TD1_project/blob/main/README.md#2%C3%A8me-page)
 [Page3]()
 [Page4]()
 [Page5]()
