@@ -17,6 +17,8 @@ La complexité de cette algorithme est de $O(log_{2}(n))$.
 ### 4<SUP>ème</SUP> Page:
 
 ### 5<SUP>ème</SUP> Page:
+Voici une capture d'écran sur lequel on a testé l'alggorithme:
+![Capture d'écran de la page pour tester l'algorithme.](https://github.com/RIZZANTE-MADONNA-Alexandre-2326091/Markdown-TD1_project/blob/main/Recherche%20dico.PNG)
 > [!WARNING]
 > Si la taille du tableau est supérieur à 100, l'algorithme plante.
 
